@@ -13,7 +13,7 @@
 # Scope and refactor code to provide additional information.
 # Write data to an output file and print the file.
 
-# Daniela will erase this
+
 # Add our dependencies.
 import csv
 import os
