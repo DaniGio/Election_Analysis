@@ -35,5 +35,15 @@ The analysis of the election shows that it was captured 369,711 votes in total, 
 * Winning Percentage: 73.8%
 
 ## Challenge overview
+The analysis indicate that the largest county turnout was Denver, with more than 80% of the votes.
 
 ## Challenge Summary
+
+The number of votes that were cast from each county and the percentage of votes each county contributed to the election are presented below:
+
+#### Counties Votes:
+* Jefferson: 10.5% (38,855)
+* Denver: 82.8% (306,055)
+* Arapahoe: 6.7% (24,801)
+
+* Largest County Turnout: Denver
